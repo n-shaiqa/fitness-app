@@ -1,0 +1,2 @@
+# FitnessApp
+This project is a locally hosted FULL-STACK web application written in PHP, CSS, MySQL, and HTML. This application uses a Google API for captcha and performs password hashing prior to password storage in the Database. This project is still under development but currently has a fully functional login/logout and user registration form that interacts in a FULL-STACK fashion with a backend database. 
